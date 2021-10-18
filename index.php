@@ -11,7 +11,7 @@
 <body>
 	<nav class="navbar navbar-light bg-secondary mb-2">
 		<div class="container d-flex">
-			<a class="navbar-brand" href="http://localhost:8000">Bsale Test</a>
+			<a class="navbar-brand" href="https://bsaletest-frontend.herokuapp.com/">Bsale Test</a>
 			<form class="d-flex" action="">
 				<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name='search'>
 				<button class="btn btn-success" type="submit" >Search</button>
